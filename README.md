@@ -6,5 +6,5 @@
 
 ---
 
-> 更换字体的具体教程见我的博客链接：[更换 Win10 系统的字体](http://xiukun.store/post/geng-huan-win10-xi-tong-de-zi-ti/)
+> 更换字体的具体教程，见我的博客链接：[更换 Win10 系统的字体](http://xiukun.store/post/geng-huan-win10-xi-tong-de-zi-ti/)
 
